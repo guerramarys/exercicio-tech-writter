@@ -9,86 +9,102 @@ O que torna essa ferramenta atraente para todos os públicos é o fato de não s
 
 ## 1. PRIMEIRO ACESSO
 
-    a. Acesse o site [Figma](www.figma.com.br)
-    b. Faça seu login ou crie sua conta
-    c. Na tela inicial do Figma, selecione a opção **New FigJam File**, conforme a indicação na imagem abaixo:
-    ![inicialfigma](imagem)  
+a. Acesse o site [Figma](www.figma.com.br)  
+b. Faça seu login ou crie sua conta  
+c. Na tela inicial do Figma, selecione a opção **New FigJam File**, conforme a indicação na imagem abaixo:    
+
+![inicialfigma](imagem)  
 
 ## 2. INÍCIO
-    Ao iniciar o FigJam, abre uma janela flutuante e você pode escolher um layout pronto se quiser. Caso contrário, é só fechar a janela e começar a explorar a ferramenta.
-    ![opcoestemplates](imagem)
+Ao iniciar o FigJam, abre uma janela flutuante e você pode escolher um layout pronto se quiser. Caso contrário, é só fechar a janela e começar a explorar a ferramenta.  
+
+![opcoestemplates](imagem)
 
 ## 3. ÁREA DE TRABALHO   
-      ![onboarding](https://help.figma.com/hc/en-us/articles/1500004362321-Guide-to-FigJam)
 
-    A. **Configurações e outras ações**  
-    Clicando nesse ícone você altera configurações e realiza ações como salvar arquivos. Algumas funções só funcionam se houver objetos selecionados no projeto.  
+![onboarding](https://help.figma.com/hc/en-us/articles/1500004362321-Guide-to-FigJam)
+
+A. **Configurações e outras ações**  
+Clicando nesse ícone você altera configurações e realiza ações como salvar arquivos. Algumas funções só funcionam se houver objetos selecionados no projeto.  
    
     
-    B. **Barra de ferramentas principal**
-    Crie formas, carimbos, acesse opções de templates, caixas de texto, setas indicadoras e entre outras das principais ferramentas do FigJam.  
-     ![barraferramenta](imagem)
+B. **Barra de ferramentas principal**  
+Crie formas, carimbos, acesse opções de templates, caixas de texto, setas indicadoras e entre outras das principais ferramentas do FigJam.  
 
-    C. **Ferramentas colaborativas**  
-    No item selecionado, você encontra opções de ferramentas colaborativas como balão de comentários, carimbos para votação, hi-fi para interação com outras pessoas usuárias e até um cronômetro para atividades que exigem controle de tempo.  
-      ![ferramentacolab](imagem)
+![barraferramenta](imagem)
 
-    D. **Ferramenta de áudio**
-    Use a ferramenta de áudio do Figjam para interagir com os outros membros do seu time enquanto trabalham juntos em um mesmo projeto.
+C. **Ferramentas colaborativas**  
+No item selecionado, você encontra opções de ferramentas colaborativas como balão de comentários, carimbos para votação, hi-fi para interação com outras pessoas usuárias e até um cronômetro para atividades que exigem controle de tempo.  
 
-    E. **Convide colaboradores**
-    Compartilhe seu projeto e dê permissão para outras pessoas editarem ou apenas para visualizarem o que você está fazendo em tempo real.  
-      ![invite](imagem)
+![ferramentacolab](imagem)
 
-    F. **Configurações de visualização**  
-    Ajuste suas configurações de visualização com ferramenta de zoom.
-      ![zoom](imagem)
-  
+D. **Ferramenta de áudio**  
+Use a ferramenta de áudio do Figjam para interagir com os outros membros do seu time enquanto trabalham juntos em um mesmo projeto.
+
+E. **Convide colaboradores**  
+Compartilhe seu projeto e dê permissão para outras pessoas editarem ou apenas para visualizarem o que você está fazendo em tempo real.      
+
+![invite](imagem)
+
+F. **Configurações de visualização**  
+Ajuste suas configurações de visualização com ferramenta de zoom.  
+
+![zoom](imagem)
+
 ## 4. FUNCIONALIDADES
-    As principais ferramentas do FigJam estão no menu inferior conforme mostra a imagem:
-    ![ONBOARDING2](https://help.figma.com/hc/en-us/articles/1500004362321-Guide-to-FigJam)
+As principais ferramentas do FigJam estão no menu inferior conforme mostra a imagem:  
 
-    A. **Navegação** 
-    **Seta** ⇒ Seleciona e move um ou mais itens de uma vez.
+![ONBOARDING2](https://help.figma.com/hc/en-us/articles/1500004362321-Guide-to-FigJam)
+
+A. **Navegação**   
+    **Seta** ⇒ Seleciona e move um ou mais itens de uma vez.  
     **Mão** ⇒ Arrasta o quadro branco movendo-o para todas as direções, sem mover os objetos do projeto.
     
-    B. **Marcadores**  
-    Use os marcadores em formato de lápis com linhas mais finais e com efeito de canetinha, com linhas mais grossas, para fazer desenhos à mão-livre.  
-    ![CANETINHA](imagem)  
-    ![LAPIS](imagem)
+B. **Marcadores**    
+Use os marcadores em formato de lápis com linhas mais finais e com efeito de canetinha, com linhas mais grossas, para fazer desenhos à mão-livre.  
 
-    C. **Formas**  
-    Use os marcadores em formato de lápis com linhas mais finais e com efeito de canetinha, com linhas mais grossas, para fazer desenhos à mão-livre.  
-    ![FORM1](imagem)  
-    ![FORM2](imagem)
+![CANETINHA](imagem)  
+![LAPIS](imagem)
 
-    D. **Post-its**  
-    Queridinhos dos adeptos do Design Thinking, são úteis para deixar comentários e avisos no corpo do projeto.  
-    ![POST](imagem)
+C. **Formas**  
+Use os marcadores em formato de lápis com linhas mais finais e com efeito de canetinha, com linhas mais grossas, para fazer desenhos à mão-livre.  
 
-    E. **Texto**  
-    Queridinhos dos adeptos do Design Thinking, são úteis para deixar comentários e avisos no corpo do projeto.  
+![FORM1](imagem)    
+![FORM2](imagem)
 
-    F. **Conectores e linhas**  
-    Queridinhos dos adeptos do Design Thinking, são úteis para deixar comentários e avisos no corpo do projeto.  
-    ![CONECT](imagem)
+D. **Post-its**  
+Queridinhos dos adeptos do Design Thinking, são úteis para deixar comentários e avisos no corpo do projeto.  
 
-    G. **Carimbos**  
-    O carimbo e os adesivos de emijis permitem que você adicione rapidamente seu feedback aos arquivos. Faça votações em trabalhos colaborativos em tempo real.
-    ![CARIMB](imagem)  
+![POST](imagem)
 
-    H. **Templates**  
-    Otimize seu tempo e fluxo de trabalho utilizando um template do FigJam. São diversos modelos para brainstorms, reuniões, diagramas, entre outros.  
+E. **Texto**  
+Use a ferramenta de texto para criar títulos, subtítulos e corpo de textos em todo o seu projeto.
 
-    I. **Biblioteca**   
-    A ferramenta de biblioteca dá acesso a conjuntos de adesivos divertidos criados especialmente para o FigJam.  
-    ![BIBLIO](imagem)
+F. **Conectores e linhas**  
+Use a ferramenta de texto para criar títulos, subtítulos e corpo de textos em todo o seu projeto.  
 
-    J. **Imagens, pluggins, widgets e blocos de código**  
-    Adicione imagens, fotos, pluggins, widgets e blocos de códigos de programação aos seus projetos.  
-    ![IMAG](imagem)
+![CONECT](imagem)
 
- ## Dica Importante:
+G. **Carimbos**  
+O carimbo e os adesivos de emijis permitem que você adicione rapidamente seu feedback aos arquivos. Faça votações em trabalhos colaborativos em tempo real.
+
+![CARIMB](imagem)  
+
+H. **Templates**  
+Otimize seu tempo e fluxo de trabalho utilizando um template do FigJam. São diversos modelos para brainstorms, reuniões, diagramas, entre outros.  
+
+I. **Biblioteca**   
+A ferramenta de biblioteca dá acesso a conjuntos de adesivos divertidos criados especialmente para o FigJam.  
+
+![BIBLIO](imagem)
+
+J. **Imagens, pluggins, widgets e blocos de código**  
+Adicione imagens, fotos, pluggins, widgets e blocos de códigos de programação aos seus projetos.  
+
+![IMAG](imagem)
+
+
+## Dica Importante:
 O primeiro ícone da esquerda para direita no menu abaixo representa um integrante do projeto. Normalmente, esse ícone aparece com a foto de perfil ou com a primeira letra do nome cadastrado no Figma. Quando houver mais do que um colaborador, ao clicar nesse ícone, você observa a pessoa trabalhando em tempo real no FigJam. Essa funcionalidade é excelente para que o time acompanhe uma apresentação como se estivesse vendo a tela do apresentador ao vivo!   
 ![SHARE](imagem)
 
